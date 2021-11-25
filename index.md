@@ -4,11 +4,11 @@ layout: home
 permalink: /
 ---
 
-# Matrix Leap Technology Inc. 
----
 ![image](logo.png)
 
-Contact
+# Matrix Leap Technology Inc. 
+
+*Contact*
 
 NFT & AI: ryan@matrixleap.art 
 
