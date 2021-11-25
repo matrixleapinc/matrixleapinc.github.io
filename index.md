@@ -8,6 +8,6 @@ permalink: /
 ---
 Contact
 
-NFT & AI Consulting: ryan@matrixleap.art 
+NFT & AI: ryan@matrixleap.art 
 
-Digital Marketing Consulting: flora@matrixleap.art
+Digital Marketing: flora@matrixleap.art
