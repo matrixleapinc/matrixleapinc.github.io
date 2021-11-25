@@ -12,7 +12,7 @@ permalink: /
 
 ## *Contact*
 
-\
+&nbsp;
 
 NFT & AI: ryan@matrixleap.art 
 
