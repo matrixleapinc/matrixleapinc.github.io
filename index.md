@@ -12,4 +12,4 @@ NFT & AI: ryan@matrixleap.art
 
 Digital Marketing: flora@matrixleap.art
 
-[!image](logo.png)
+![image](logo.png)
