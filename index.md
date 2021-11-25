@@ -8,6 +8,8 @@ permalink: /
 
 # Matrix Leap Technology Inc. 
 
+
+
 *Contact*
 
 NFT & AI: ryan@matrixleap.art 
