@@ -12,6 +12,8 @@ permalink: /
 
 ## *Contact*
 
+\
+
 NFT & AI: ryan@matrixleap.art 
 
 Digital Marketing: flora@matrixleap.art
