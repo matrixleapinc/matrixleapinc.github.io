@@ -10,12 +10,12 @@ permalink: /
 ---
 
 
-## *Contact*
+## *One Stop NFT Publishing & Minting*
 
 &nbsp;
 
-NFT & AI: ryan@matrixleap.art 
+Blockchain Technologies: ryan@matrixleap.art 
 
-Digital Marketing: flora@matrixleap.art
+NFT Marketing: flora@matrixleap.art
 
 
